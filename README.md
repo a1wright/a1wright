@@ -1,3 +1,5 @@
+![image](https://github.com/a1wright/a1wright/blob/23a6c7c026ee24c8c2b286b597500384befad639/octo.gif)
+
 # Welcome To My Profile &#128187;
 <!--
 **a1wright/a1wright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
